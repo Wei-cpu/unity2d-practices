@@ -37,6 +37,7 @@ public class NumberWizard : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Return))
         {
             Debug.Log("Enter key was pressed.");
+            Debug.Log("poggers");
         }
     }
 }
